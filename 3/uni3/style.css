@@ -1,0 +1,16 @@
+.container-fluid{
+    background-color: rgb(245, 156, 156);
+    border: double 8px  rgba(0, 0, 0, 0.514) ;
+}
+.navbar-brand{
+font-weight: bolder ;
+    text-decoration: underline black;
+}
+.navbar-toggler:hover{
+    background-color: pink;
+}
+.nav-item .nav-link {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
